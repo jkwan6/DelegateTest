@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest\\DelegateTest.csproj": {}
+    "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest\\DelegateTest.csproj": {
+    "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest\\DelegateTest.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest.csproj",
         "projectName": "DelegateTest",
-        "projectPath": "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest\\DelegateTest.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\DelegateTest\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\C# Projects\\DelegateTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
